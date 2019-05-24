@@ -1,0 +1,272 @@
+.mainpage {
+	min-height: 980px;
+	width: 80%;
+	margin: 0px auto;
+}
+
+.section1 {
+	width: 100%;
+	height: 600px;
+		
+}
+
+.image img{
+	width:100%;
+	height:600px;
+}
+
+.overlay {
+	width: 100%;
+	height: 600px;
+	background: rgba(0,0,0,0.1);
+	margin-top:-605px;
+	position:relative; 
+	padding:0px; 
+}
+
+.header1 {
+	background: rgba(0,0,0,0.2);
+	text-align: right;
+	padding-top: 5px;
+	padding-bottom: 3px;
+}
+
+.header2 img{
+	width: 3%;
+	height: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.head {
+	float:left;
+	margin-left: 0px;
+	padding-left: 60px;
+	position:relative;
+}
+
+.one {
+	border-top: 30px solid #59b300;
+	border-right: 45px solid transparent;
+	border-left: -45px solid transparent;
+	height: 10px;
+	width: 20%;
+	color:black;
+	float: left;
+}
+
+.header {
+	width: 100%;
+	height: 10px;
+}
+
+.head two{
+	width: 40%;
+	position: relative;
+}
+
+.two {
+	border-bottom: 30px solid #59b300;
+	border-left: 45px solid transparent;
+	border-right: -45px solid transparent;
+	height: 0;
+	margin-left: -40px;
+	width:5%;
+	color: black;
+	padding-left: 689px;
+	float: left;
+}
+
+.pera-bd{
+	width: 100%;
+}
+
+.pera-bd-left{
+	width: 30%;
+	float: left;
+	text-align: center;
+	margin-top: -72px;
+	position: relative;
+}
+
+.pera-bd-left p {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.pera-bd-right {
+	width: 70%;
+	float: left;
+	margin-top: -46px;
+	position: relative;
+	
+}
+.pera-item {
+	width: 20%;
+	float: left;
+}
+.pera-item a{
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.pera-item :hover {
+		background: #4d4d4d;
+	}
+
+.pera-item:hover {
+		background-color: teal; 
+		text-align: center; 
+		line-height: 27px; 
+		transition: 2s;
+		font-size: 1em;
+		margin-top: -5px;
+	}
+
+
+.middle1 {
+	height: 100px;
+	width: 90.6%; 
+	color: white;
+	padding: 50px;
+	margin-top: 80px;
+	border-top: 4px solid #59b300;
+	border-bottom: 4px solid #59b300;
+	padding-top: 10px;
+	padding-bottom: 2px;
+}
+
+.middle2 {
+	width: 100%;
+	height: 150px;
+	border-top: 4px solid black;
+	border-bottom: 4px solid black;
+	margin-top: 70px;
+}
+
+.abcd img{
+	height: 90px;
+	width: 30%;
+	float: left;
+}
+
+.first {
+	height: 50px;
+	width: 61%;
+	float: left;
+	text-align: right;
+}
+	
+.box1 {
+	background: green;
+	color: white;
+	height: 140px;
+	width: 24%;
+	float: left;
+	padding: 5px;	
+}
+
+.efgh img{
+	height: 90px;
+	width: 30%;
+	float: left;
+}
+
+.second {
+	height: 50px;
+	width: 61%;
+	float: left;
+	text-align: right;
+}
+	
+.box2{
+	background: green;
+	color: white;
+	height: 140px;
+	width: 24%;
+	float: left;
+	padding: 5px;
+}
+
+.ijkl img{
+	height: 90px;
+	width: 30%;
+	float: left;
+}
+
+.third {
+	height: 50px;
+	width: 61%;
+	float: left;
+	text-align: right;
+}
+
+.box3 {
+	background: green;
+	color: white;
+	height: 140px;
+	width: 24%;
+	float: left;
+	padding: 5px;
+}
+
+.mnop img{
+	height: 90px;
+	width: 30%;
+	float: left;
+}
+
+.fourth {
+	height: 50px;
+	width: 61%;
+	float: left;
+	text-align: right;
+}
+
+.box4 {
+	background: green;
+	color: white;
+	height: 140px;
+	width: 24%;
+	float: left;
+	padding: 5px;
+}
+
+.section2 {
+	background: black;
+	color: white;
+	height: 566px;
+	width: 100%;
+	text-align: center;
+}
+
+.fully {
+	background: #0d0d0d;
+	height: 440px;
+	width: 505px;
+	float: left;
+	margin-top: 30px;
+	text-align: left;
+	padding-left: 20px;
+}
+
+.comprehensive {
+	background: #0d0d0d;
+	height: 440px;
+	width: 505px;
+	float: left;
+	margin-top: 30px;
+	text-align: left;
+	padding-left: 20px;
+}
+
+.section3 {
+	background: #333333;
+	color: white;
+	height: 160px;
+	width: 100%;
+	text-align: center;
+	padding-top: 1px;
+	margin-top: 2px;
+}
